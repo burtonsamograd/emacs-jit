@@ -73,6 +73,8 @@ raytracer.sh
 
 lisp/emacs-lisp/byte-comp.el
 
+configure.ac: check for libjit
+
 --
 Burton Samograd
 burton.samograd@gmail.com
